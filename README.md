@@ -1,4 +1,4 @@
-# LaptopDoc — Sistem Pakar Diagnosis Kerusakan Laptop
+# Laptop Diagnostic Expert — Sistem Pakar Diagnosis Kerusakan Laptop
 
 Prototype sistem pakar berbasis web yang mendiagnosis kerusakan laptop melalui konsultasi interaktif menggunakan **Backward Chaining** dan **Certainty Factor**.
 
@@ -31,7 +31,7 @@ Prototype sistem pakar berbasis web yang mendiagnosis kerusakan laptop melalui k
 
 ```bash
 # Clone / masuk ke direktori project
-cd "d:\Bismillah Kuliah\Semester 4\Sistem Pakar\Project-Sistem-Pakar"
+cd "https://github.com/azharm2412/Laptop-Diagnostic-Expert"
 
 # Instal dependencies
 pip install -r requirements.txt
@@ -133,19 +133,7 @@ Project-Sistem-Pakar/
 | Standar | PEP 8 |
 | Docstring | Google style |
 
-## Dokumentasi
-
-| Dokumen | Standar |
-|---|---|
-| [Project Charter](docs/project_charter.md) | — |
-| [SRS](docs/srs_draft.md) | IEEE 830 |
-| [UML Analysis](docs/uml_analysis.md) | UML 2.5 |
-| [KB Design](docs/knowledge_base_design.md) | ISO/IEC 9075 |
-| [Architecture](docs/architecture_design.md) | IEEE 1016 |
-| [SQAP](docs/sqap.md) | IEEE 730 |
-| [UI Design](docs/ui_design_spec.md) | WCAG 2.1 |
-| [API Spec](docs/api_spec.md) | OpenAPI 3.0 |
 
 ---
 
-> LaptopDoc — Proyek Akademik Mata Kuliah Sistem Pakar, Maret 2026
+> Laptop-Diagnostic-Expert — Projek Akademik Mata Kuliah Sistem Pakar, Maret 2026
