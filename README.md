@@ -136,4 +136,4 @@ Project-Sistem-Pakar/
 
 ---
 
-> LaptopDoc — Proyek Akademik Mata Kuliah Sistem Pakar, Maret 2026
+> Laptop-Diagnostic-Expert — Projek Akademik Mata Kuliah Sistem Pakar, Maret 2026
