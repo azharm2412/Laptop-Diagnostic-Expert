@@ -147,7 +147,7 @@ class CertaintyFactor:
         if not cf_user_list:
             return 0.0
 
-        cf_user_combined = CertaintyFactor.combine_cf_list(cf_user_list)
+        cf_user_combined = min(cf_user_list)
         cf_final = round(cf_pakar * cf_user_combined, 4)
 
         logger.info(
